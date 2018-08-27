@@ -71,7 +71,6 @@ Follow us on
 [Bright](https://github.com/benevbright)
 
 # For a great beginning!
-Source: Media Credit Giphy
-![Elaine Clinks Glass](<img src="https://media.giphy.com/media/WeJeWpUMxpQmk/giphy.gif">)
+![Giphy]<img src="https://media.giphy.com/media/WeJeWpUMxpQmk/giphy.gif">
  
 
