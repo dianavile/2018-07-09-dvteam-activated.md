@@ -18,20 +18,20 @@ We started with a selected group of 20.000 out of 200.000 applications in Europe
 ### RgSoC Coaches & Supervisor
 During the Google Scholarship, we met several times in real life and decided to apply for RgSoc to be able to keep practicing our coding skills in summer. As we were new in the dev community, we reached out to our Udacity community managers who introduced us to Amanda Cavallaro. She helped us find our first two current RgSoc-coaches: 
 
-*Coach 1: Tobias (React developer)* 
+#### *Coach 1: Tobias (React developer)* 
 Tobias is a React developer and mentor who believes in helping juniors grow.
 
-*Coach 2: Tetiana (Ruby developer)*
+#### *Coach 2: Tetiana (Ruby developer)*
 Tetiana is a Ruby in Rails expert and team leader (she has always wanted to be part of RGSoC!).
 Skyping with Tobias and Tetiana, gave us the confidence they would have our backs! They not only seem very nice and accessible, but moreover have the attitude and experience needed to guide us through the summer.
 
-*Coach 3: Cristina (full stack developer)*
+#### *Coach 3: Cristina (full stack developer)*
 The third RgSoc-coach to join, we met during a recently peer lab, that Violeta organized for Woman Who Code. We really liked her spirits and clarity so just a week before starting the SoC we invited her to be part of it. 
 
-*Coach 4: Bright (React mobile developer)*
+#### *Coach 4: Bright (React mobile developer)*
 Bright was introduced to us by Sujin from Team Sunshine when we needed help solving our project's issues. He is very experienced with JavaScript and will be helping us during the summer too! 
 
-*Supervisor: Lucas Pinto 
+#### *Supervisor: Lucas Pinto 
 We consider ourselves very lucky! As not only do we have gathered a great team of mentors, but also an interesting supervisor Lucas Pinto who has even organized Ruby conferences! 
 
 ### Living Style Guide
@@ -71,6 +71,6 @@ Follow us on
 [Bright](https://github.com/benevbright)
 
 # For a great beginning!
-![media-credit name=Giphy-Elaine Clinks Glass [S6E10 The Race]"]<img src="https://media.giphy.com/media/WeJeWpUMxpQmk/giphy.gif">[/media-credit]
+![Elaine Clinks Glass [S6E10 The Race]](https://media.giphy.com/media/WeJeWpUMxpQmk/200w_d.gif)
+Source: Media Credit Giphy <img src="https://media.giphy.com/media/WeJeWpUMxpQmk/giphy.gif">
 
-https://media.giphy.com/media/WeJeWpUMxpQmk/200w_d.gif
