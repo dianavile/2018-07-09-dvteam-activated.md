@@ -71,6 +71,6 @@ Follow us on
 [Bright](https://github.com/benevbright)
 
 # For a great beginning!
-![Giphy]<img src="https://media.giphy.com/media/WeJeWpUMxpQmk/giphy.gif">
+![Media Credit: Giphy]<img src="https://media.giphy.com/media/WeJeWpUMxpQmk/giphy.gif">
  
 
