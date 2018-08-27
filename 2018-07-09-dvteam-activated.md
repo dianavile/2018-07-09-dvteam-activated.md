@@ -71,6 +71,6 @@ Follow us on
 [Bright](https://github.com/benevbright)
 
 # For a great beginning!
-![Elaine Clinks Glass [S6E10 The Race]](https://media.giphy.com/media/WeJeWpUMxpQmk/200w_d.gif)
+![Elaine Clinks Glass]()
 Source: Media Credit Giphy <img src="https://media.giphy.com/media/WeJeWpUMxpQmk/giphy.gif">
 
